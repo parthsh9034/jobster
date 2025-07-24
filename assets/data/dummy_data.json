@@ -1,0 +1,75 @@
+
+[
+  {
+    "id": 1,
+    "title": "Flutter Developer",
+    "company": "TechLabs",
+    "location": "Bangalore",
+    "description": "Looking for a junior Flutter developer with 3 months of experience.",
+    "salary": "₹4–6 LPA"
+  },
+  {
+    "id": 2,
+    "title": "React Native Intern",
+    "company": "Appify",
+    "location": "Remote",
+    "description": "Internship position for mobile app development.",
+    "salary": "₹10k/month"
+  },
+  {
+    "id": 3,
+    "title": "Android Developer",
+    "company": "Mobigen",
+    "location": "Delhi",
+    "description": "Need Android developer with Kotlin experience.",
+    "salary": "₹5–8 LPA"
+  },
+  {
+    "id": 4,
+    "title": "Flutter Developer",
+    "company": "TechLabs",
+    "location": "Bangalore",
+    "description": "Looking for a junior Flutter developer with 3 months of experience.",
+    "salary": "₹4–6 LPA"
+  },
+  {
+    "id": 5,
+    "title": "React Native Intern",
+    "company": "Appify",
+    "location": "Remote",
+    "description": "Internship position for mobile app development.",
+    "salary": "₹10k/month"
+  },
+  {
+    "id": 6,
+    "title": "Android Developer",
+    "company": "Mobigen",
+    "location": "Delhi",
+    "description": "Need Android developer with Kotlin experience.",
+    "salary": "₹5–8 LPA"
+  },
+  {
+    "id": 7,
+    "title": "Flutter Developer",
+    "company": "TechLabs",
+    "location": "Bangalore",
+    "description": "Looking for a junior Flutter developer with 3 months of experience.",
+    "salary": "₹4–6 LPA"
+  },
+  {
+    "id": 8,
+    "title": "React Native Intern",
+    "company": "Appify",
+    "location": "Remote",
+    "description": "Internship position for mobile app development.",
+    "salary": "₹10k/month"
+  },
+  {
+    "id": 9,
+    "title": "Android Developer",
+    "company": "Mobigen",
+    "location": "Delhi",
+    "description": "Need Android developer with Kotlin experience.",
+    "salary": "₹5–8 LPA"
+  }
+]
