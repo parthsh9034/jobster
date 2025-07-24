@@ -1,16 +1,34 @@
-# jobster
+# Jobster - Flutter Job Listing App
 
-A new Flutter project.
+**Jobster** is a clean and user-friendly Flutter application that allows users to:
+- Browse job listings
+- Filter jobs by location
+- Mark jobs as favorites
+- View detailed job descriptions
 
-## Getting Started
+## 🔧 Features
+- Stylish UI with animations
+- Favorite jobs section
+- Location-based filtering
+- Dynamic job listing from JSON
+- Reusable components
 
-This project is a starting point for a Flutter application.
+## 📁 Structure
+- `models/` – Data models
+- `pages/` – UI screens like Job List, Job Details, and Favorites
+- `assets/data/` – Dummy job data in JSON format
+- `assets/images/` – App logo and icons
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
+1. Clone the repo
+2. Run `flutter pub get`
+3. Launch with `flutter run`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📦 Packages Used
+- `flutter_launcher_icons`
+- `flutter_lints`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📍 Status
+✅ Suitable for Flutter beginners  
+✅ Ideal as a portfolio project
+
